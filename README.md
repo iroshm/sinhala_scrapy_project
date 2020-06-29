@@ -37,4 +37,9 @@ ELASTICSEARCH_UNIQ_KEY = 'url'
 
 ## Run
 
+1. Go to scrapy_IR folder and run the following command.
+    scrapy crawl <scraper_name> -o <filename>.json
+    
+
+
 
