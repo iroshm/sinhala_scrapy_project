@@ -19,9 +19,9 @@ CONCURRENT_REQUESTS_PER_IP = 1
 
 ### Disable cookies (enabled by default)
 COOKIES_ENABLED = False
-
+```
 5. To send data directly to ElasticSeach use following settings
-
+```
 ### Configure ScrapeElasticSearch
 
 ITEM_PIPELINES = {
